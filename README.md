@@ -10,13 +10,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
-<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter"/>
-<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
-<img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="48" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="48" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="48" alt="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="48" alt="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="48" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/>
+
 
 </div>
 
