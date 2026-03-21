@@ -4,9 +4,9 @@
 
 </div>
 
----
 
 ## 🛠️ Tech Stack
+
 
 <div align="center">
 
@@ -24,7 +24,11 @@
 
 </div>
 
----
+## 🥷 Github Movements
+<div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lansmasigon&theme=dark&stroke=C7B6F9&sideNums=C7B6F9&fire=C7B6F9&currStreakLabel=C7B6F9&currStreakNum=C7B6F9&ring=C7B6F9)
+</div>
 
 ## Links
 
